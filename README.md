@@ -1,1 +1,1 @@
-# Employee-Management-System-EMS-
+An Employee Management System (EMS) is a software tool designed to streamline and automate various aspects of HR tasks, including employee data management, attendance tracking, payroll processing, performance evaluation, and more.
